@@ -1,0 +1,17 @@
+#mysqlclient
+flask
+#time
+requests
+BeautifulSoup
+bs4
+lxml
+selenium
+sklearn
+pydub
+h5py
+numpy
+scipy
+pydub
+librosa
+keras
+TensorFlow

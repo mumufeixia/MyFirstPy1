@@ -1,2 +1,2 @@
-# MyFirstPy1
-python learn 
+# MyFirstPy
+first python code
